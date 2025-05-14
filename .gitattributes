@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+TMT-VR_final-EXE/** filter=lfs diff=lfs merge=lfs -text
+TMT-VR_source/** filter=lfs diff=lfs merge=lfs -text
